@@ -94,7 +94,7 @@ async def representnewbrunswick():
 
 @client.command()
 async def suckedmygootuberbehindarbys():
-    await client.say('∠( \'ω\')／ Maybe ＼(\'ω\' )>﻿')
+    await client.say('∠( \'ω\')／ Maybe ＼(\'ω\' )>')
     
 @client.command()
 async def fuckme():
@@ -109,8 +109,8 @@ async def blessrichie():
     await client.say('We out here for u richie. this 2018 we stan a furry king')
     
 @client.command()
-async def wishthismanabirthday():
-    await client.say(':balloon: :balloon: **HAPPY BIRTHDAY SHUICHI** :balloon: :balloon: \nhttps://tinyurl.com/kibbirth')
+async def sendbirthdaywishes():
+    await client.say(':balloon: :balloon: **HAPPY BIRTHDAY** :balloon: :balloon: \nhttps://tinyurl.com/kibbirth')
 
 @client.command()
 async def info():
