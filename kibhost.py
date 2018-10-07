@@ -107,10 +107,18 @@ async def chokeme():
 @client.command()
 async def blessrichie():
     await client.say('We out here for u richie. this 2018 we stan a furry king')
+
+@client.command()
+async def killthisfool():
+    await client.say('Get ready for Kiibo\'s Pistol Whippin\' .45! **SAIONARA!**\nhttps://tinyurl.com/kiibopistolwhip')
     
 @client.command()
 async def sendbirthdaywishes():
     await client.say(':balloon: :balloon: **HAPPY BIRTHDAY** :balloon: :balloon: \nhttps://tinyurl.com/kibbirth')
+    
+@client.command()
+async def flex():
+    await client.say('i have more money than youll ever see and its all vbucks\nhttps://tinyurl.com/cloutkib')
 
 @client.command()
 async def info():
