@@ -16,7 +16,7 @@ async def on_ready():
 
 @client.command()
 async def die():
-    await client.say('no u \n https://tinyurl.com/kiibo1')
+    await client.say('no u \n https://tinyurl.com/kibdie')
     
 @client.command()
 async def ahegao():
