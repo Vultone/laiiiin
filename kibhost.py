@@ -105,6 +105,10 @@ async def chokeme():
     await client.say('https://tinyurl.com/ychvpbdu')
     
 @client.command()
+async def blessant():
+    await client.say('In this house we love and support ant!!!!:two_hearts:')
+   
+@client.command()
 async def blessrichie():
     await client.say('We out here for u richie. this 2018 we stan a furry king')
 
