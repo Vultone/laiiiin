@@ -11,7 +11,7 @@ client = commands.Bot(command_prefix='kiibo')
 async def on_ready():
     print('client KiiboBot ready')
     await client.change_presence(game = discord.Game(
-        name = 'Bots don\'t need sleep!'
+        name = 'Aren\'t you supposed to be working right now?'
     ))
 
 @client.command()
