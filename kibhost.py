@@ -124,9 +124,6 @@ async def sendbirthdaywishes():
 async def flex():
     await client.say('i have more money than youll ever see and its all vbucks\nhttps://tinyurl.com/cloutkib')
     
-@client.command()
-async def mowmylawn():
-    await client.say('i just mowed wrens lawn')
 
 @client.command()
 async def info():
