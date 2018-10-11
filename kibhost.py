@@ -124,9 +124,7 @@ async def sendbirthdaywishes():
 async def flex():
     await client.say('i have more money than youll ever see and its all vbucks\nhttps://tinyurl.com/cloutkib')
     
-@commands.command()
-async def mention_ping(self, ctx, member : discord.Member):
-    await ctx.send(f"PONG {member}")
+
     
 @client.command()
 async def info():
