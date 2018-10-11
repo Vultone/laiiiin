@@ -124,8 +124,8 @@ async def sendbirthdaywishes():
 async def flex():
     await client.say('i have more money than youll ever see and its all vbucks\nhttps://tinyurl.com/cloutkib')
     
-@commands.command(pass_context=True)
-async def hug(self, ctx):
+@client.command()
+async def flex(ctx):
     await self.bot.say("hugs {}".format(ctx.message.author.mention()))
     
 @client.command()
