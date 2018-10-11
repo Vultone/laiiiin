@@ -125,8 +125,8 @@ async def flex():
     await client.say('i have more money than youll ever see and its all vbucks\nhttps://tinyurl.com/cloutkib')
     
 @client.command()
-async def flex(ctx):
-    await self.bot.say("hugs {}".format(ctx.message.author.mention()))
+async def flex():
+    await self.bot.say("hugs {}".format(message.author.mention()))
     
 @client.command()
 async def info():
