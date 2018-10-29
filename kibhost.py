@@ -121,6 +121,10 @@ async def sendbirthdaywishes():
     await client.say(':balloon: :balloon: **HAPPY BIRTHDAY** :balloon: :balloon: \nhttps://tinyurl.com/kibbirth')
     
 @client.command()
+async def happybirthday():
+    await client.say(':balloon: Thank You Based God :balloon: \nhttps://tinyurl.com/kibbirthday')
+    
+@client.command()
 async def flex():
     await client.say('i have more money than youll ever see and its all vbucks\nhttps://tinyurl.com/cloutkib')
     
