@@ -11,7 +11,7 @@ client = commands.Bot(command_prefix='kiibo')
 async def on_ready():
     print('client KiiboBot ready')
     await client.change_presence(game = discord.Game(
-        name = '10/29 is my birthday!'
+        name = 'Happy Halloween!'
     ))
 
 @client.command()
