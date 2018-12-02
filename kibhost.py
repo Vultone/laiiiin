@@ -117,7 +117,7 @@ async def awoo():
 
 @client.command()
 async def killthisfool():
-    await client.say('Get ready for Kiibo\'s Pistol Whippin\' .45! **SAIONARA!**',pistolwhip)
+    await client.say('Get ready for Kiibo\'s Pistol Whippin\' .45! **SAIONARA!**'),pistolwhip
     
 @client.command()
 async def sendbirthdaywishes():
