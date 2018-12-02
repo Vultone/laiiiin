@@ -114,7 +114,7 @@ async def awoo():
 
 @client.command()
 async def killthisfool():
-    await client.say('Get ready for Kiibo\'s Pistol Whippin\' .45! **SAIONARA!**{files: ["https://tinyurl.com/kiibopistolwhip"]}')
+    await client.say('Get ready for Kiibo\'s Pistol Whippin\' .45! **SAIONARA!**{files: ["https://cdn.discordapp.com/attachments/475075193690390528/498297865068871715/-0.png"]}')
     
 @client.command()
 async def sendbirthdaywishes():
