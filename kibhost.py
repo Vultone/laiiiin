@@ -109,8 +109,8 @@ async def blessant():
     await client.say('In this house we love and support ant!!!!:two_hearts:')
    
 @client.command()
-async def blessrichie():
-    await client.say('We out here for u richie. this 2018 we stan a furry king')
+async def dance():
+    await client.say('<:dogdance:518854454712205353>')
 
 @client.command()
 async def killthisfool():
