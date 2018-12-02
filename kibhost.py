@@ -114,15 +114,12 @@ async def awoo():
 
 @client.command()
 async def killthisfool():
-    await client.say('Get ready for Kiibo\'s Pistol Whippin\' .45! **SAIONARA!**\nhttps://tinyurl.com/kiibopistolwhip')
+    await client.say('Get ready for Kiibo\'s Pistol Whippin\' .45! **SAIONARA!**{files: ["https://tinyurl.com/kiibopistolwhip"]}')
     
 @client.command()
 async def sendbirthdaywishes():
     await client.say(':balloon: :balloon: **HAPPY BIRTHDAY** :balloon: :balloon: \nhttps://tinyurl.com/kibbirth')
     
-@client.command()
-async def happybirthday():
-    await client.say(':balloon: Thank You Based God :balloon: \nhttps://tinyurl.com/kibbirthday')
     
 @client.command()
 async def flex():
