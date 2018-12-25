@@ -108,8 +108,8 @@ async def chokeme():
     await client.say('https://tinyurl.com/ychvpbdu')
     
 @client.command()
-async def blessant():
-    await client.say('In this house we love and support ant!!!!:two_hearts:')
+async def happyholidays():
+    await client.say('Happy holidays! :snowflake:')
    
 @client.command()
 async def awoo():
