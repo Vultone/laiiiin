@@ -130,7 +130,7 @@ async def flex():
     
 @client.command()
 async def sendfunnydogememelol():
-    await client.say('https://tinyurl.com/kibohahafunny')
+    await client.say('https://tinyurl.com/kibohahafunney')
     
 @client.command()
 async def info():
