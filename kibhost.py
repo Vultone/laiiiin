@@ -112,8 +112,8 @@ async def happyholidays():
     await client.say('Happy holidays! :snowflake:')
    
 @client.command()
-async def awoo():
-    await client.say('<:awoo:518856090746617940>')
+async def sayhitostep():
+    await client.say('Hi Step :)')
 
 @client.command()
 async def killthisfool():
