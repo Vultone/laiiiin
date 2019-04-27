@@ -14,7 +14,7 @@ pistolwhip.set_image(url="https://cdn.discordapp.com/attachments/475075193690390
 async def on_ready():
     print('client KiiboBot ready')
     await client.change_presence(game = discord.Game(
-        name = 'I\'m Balding!'
+        name = 'If I eated a brain prion. No I didn\’tbecause I did. No I didn\’t <3'
     ))
 
 @client.command()
