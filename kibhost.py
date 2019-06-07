@@ -14,7 +14,7 @@ pistolwhip.set_image(url="https://cdn.discordapp.com/attachments/475075193690390
 async def on_ready():
     print('client KiiboBot ready')
     await client.change_presence(game = discord.Game(
-        name = 'Auuu'
+        name = 'This old man won\'t loose I\'m uncle mion for hells sake'
     ))
 
 @client.command()
