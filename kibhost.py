@@ -22,8 +22,8 @@ async def die():
     await client.say('no u \n https://tinyurl.com/kibdie')
     
 @client.command()
-async def ahegao():
-    await client.say('Uwaaah~~~!!!!! \n https://tinyurl.com/kiibo2')
+async def forbidden():
+    await client.say('https://media.discordapp.net/attachments/585565543810072802/588516495919808533/image0.gif')
 
 @client.command()
 async def tee():
