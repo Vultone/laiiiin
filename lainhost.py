@@ -20,11 +20,11 @@ async def yay():
    
 @client.command()
 async def killyourself():
-    await client.say('https://i.pximg.net/img-master/img/2012/10/13/01/36/58/30769935_p0_master1200.jpg')
+    await client.say('https://tinyurl.com/laindie')
    
 @client.command()
 async def die():
-    await client.say('https://i.pximg.net/img-master/img/2012/10/13/01/36/58/30769935_p0_master1200.jpg')
+    await client.say('https://tinyurl.com/laindie')
 
     
 @client.event
