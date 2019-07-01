@@ -16,8 +16,8 @@ async def on_ready():
 
     
 @client.command()
-async def die():
-    await client.say('https://i.pximg.net/img-master/img/2012/10/13/01/36/58/30769935_p0_master1200.jpg')
+async def yay():
+    await client.say('yay')
    
 @client.command()
 async def killyourself():
