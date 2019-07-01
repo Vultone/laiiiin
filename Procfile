@@ -1,1 +1,1 @@
-worker: python lainhosthost.py
+worker: python lainhost.py
