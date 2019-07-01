@@ -7,9 +7,6 @@ import os
 
 client = commands.Bot(command_prefix='lain')
 
-pistolwhip = discord.Embed()
-pistolwhip.set_image(url="https://cdn.discordapp.com/attachments/475075193690390528/498297865068871715/-0.png")
-
 @client.event
 async def on_ready():
     print('client Lain ready')
