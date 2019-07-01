@@ -9,15 +9,19 @@ client = commands.Bot(command_prefix='lain')
 
 @client.event
 async def on_ready():
-    print('client KiiboBot ready')
+    print('client Lainhost ready')
     await client.change_presence(game = discord.Game(
         name = 'Let\'s all love lain'
     ))
 
     
 @client.command()
-async def sendfunnydogememelol():
-    await client.say('https://tinyurl.com/kibohahafunney')
+async def die():
+    await client.say('https://i.pximg.net/img-master/img/2012/10/13/01/36/58/30769935_p0_master1200.jpg')
+   
+@client.command()
+async def killyourself():
+    await client.say('https://i.pximg.net/img-master/img/2012/10/13/01/36/58/30769935_p0_master1200.jpg')
    
     
 @client.event
