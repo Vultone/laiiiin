@@ -20,11 +20,11 @@ async def yay():
    
 @client.command()
 async def killyourself():
-    await client.say('https://tinyurl.com/laindie')
+    await client.say('https://tinyurl.com/laindiie')
    
 @client.command()
 async def die():
-    await client.say('https://tinyurl.com/laindie')
+    await client.say('https://tinyurl.com/laindiie')
 
     
 @client.event
